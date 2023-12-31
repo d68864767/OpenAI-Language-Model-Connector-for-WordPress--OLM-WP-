@@ -1,0 +1,32 @@
+```css
+/**
+ * The public-facing styles of the plugin.
+ *
+ * @package    OLM_WP
+ * @subpackage OLM_WP/public/css
+ * @author     Your Name
+ */
+
+/* Add your custom styles for the public area here */
+
+/* Example: Style for a custom button */
+.olm-wp-public-button {
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Example: Style for a custom container */
+.olm-wp-public-container {
+    border: 2px solid #f0f0f0;
+    padding: 20px;
+    margin: 10px 0;
+}
+```
